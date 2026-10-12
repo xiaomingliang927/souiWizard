@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<color>
+  <!-- &#x4E3B;&#x7A97;&#x53E3;&#x80CC;&#x666F; -->
+  <window_background value="#F5F7FB"/>
+
+  <!-- &#x5DE6;&#x4FA7;&#x680F;&#x548C;&#x53F3;&#x4FA7;&#x8BBE;&#x7F6E;&#x680F;&#x80CC;&#x666F; -->
+  <sidebar_background value="#FFFFFF"/>
+
+  <!-- &#x5185;&#x5BB9;&#x5361;&#x7247;&#x80CC;&#x666F; -->
+  <panel_background value="#FFFFFF"/>
+
+  <!-- &#x5361;&#x7247;&#x8FB9;&#x6846; -->
+  <panel_border value="#DDE3ED"/>
+
+  <!-- &#x4E3B;&#x8981;&#x6587;&#x5B57; -->
+  <text_primary value="#334155"/>
+
+  <!-- &#x8F85;&#x52A9;&#x6587;&#x5B57; -->
+  <text_secondary value="#64748B"/>
+
+  <!-- &#x6A59;&#x8272;&#x4E3B;&#x6309;&#x94AE; -->
+  <accent value="#F58A00"/>
+
+  <!-- &#x6210;&#x529F;&#x72B6;&#x6001; -->
+  <success value="#35C759"/>
+</color>

@@ -1,0 +1,3 @@
+﻿  Building SoUI Resource
+  "C:\Users\31761\Desktop\SOUI\soui\tools\uiresbuilder.exe"  -i "C:\Users\31761\Desktop\day3\SouiWizard1\SouiWizard1\uires\uires.idx" -p "C:\Users\31761\Desktop\day3\SouiWizard1\SouiWizard1\uires" -r "C:\Users\31761\Desktop\day3\SouiWizard1\SouiWizard1\res\soui_res.rc2" -h "C:\Users\31761\Desktop\day3\SouiWizard1\SouiWizard1\res\resource.h" idtable
+  SouiWizard1.vcxproj -> C:\Users\31761\Desktop\day3\SouiWizard1\Debug\SouiWizard1.exe
